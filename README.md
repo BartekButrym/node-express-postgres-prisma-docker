@@ -34,8 +34,8 @@ The app allows users to:
 2. Clone the repository:
 
 ```bash
-git clone
-cd
+git clone https://github.com/BartekButrym/node-express-postgres-prisma-docker.git
+cd node-express-postgres-prisma-docker
 ```
 
 3. Generate the Prisma Client:
